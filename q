@@ -1,0 +1,97 @@
+[33mcommit 1d6ad201898256b947c0dfa89521c3b69ca2b9d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4f3edb8 e6738d4
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 19:47:12 2022 +0530
+
+    Merge branch 'master' of https://github.com/sandeepsonihyd/WebsiteDemo
+
+[33mcommit 4f3edb8adb47a8ef705df036cb1da73c3acc9e91[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 19:46:42 2022 +0530
+
+    l7
+
+[33mcommit e6738d4a2ae182f8ca73fd8ad0257949acda06fc[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 19:45:58 2022 +0530
+
+    l0
+
+[33mcommit d7071a739d1c45e74d96cc7bab438387f8d29f4d[m
+Merge: d6b47bb 69ba7c7
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 01:33:42 2022 +0530
+
+    Merge branch 'master' of https://github.com/sandeepsonihyd/WebsiteDemo
+
+[33mcommit d6b47bbd26b1dc815e85fa0af3d32e1fa777eda9[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 01:30:56 2022 +0530
+
+    U2
+
+[33mcommit 69ba7c722035a2ed7d040593e75c78cd2205652a[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 01:29:44 2022 +0530
+
+    U1
+
+[33mcommit 933e5e99f514756dd949cf068456e80302ba2230[m
+Merge: b6385a6 8416f6f
+Author: sandeepsonihyd <sandeepsoni@deccansoft.net>
+Date:   Fri Aug 5 01:02:15 2022 +0530
+
+    Merge pull request #2 from sandeepsonihyd/f2
+    
+    l5
+
+[33mcommit 8416f6fef423fb26772f1a1de7d4e674cc0a15a1[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 00:56:08 2022 +0530
+
+    l5
+
+[33mcommit b6385a6a579b8faebc109db3fa18f232f572e07e[m
+Merge: df3f27d 89c43c1
+Author: sandeepsonihyd <sandeepsoni@deccansoft.net>
+Date:   Fri Aug 5 00:44:41 2022 +0530
+
+    Merge pull request #1 from sandeepsonihyd/f1
+    
+    F1 merge into master
+
+[33mcommit 89c43c1207989c273ac4dcaa6293079374344b64[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 00:40:14 2022 +0530
+
+    l4
+
+[33mcommit 5f255fe8e378948b783f97357afe0d9615650cda[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Fri Aug 5 00:05:44 2022 +0530
+
+    l3
+
+[33mcommit df3f27d96fada6c6ca5cb0c9e03d0084ed3003e2[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Thu Aug 4 23:41:53 2022 +0530
+
+    l2
+
+[33mcommit 1b9aad4a22b206280b3139bab10990edf72d9d8b[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Thu Aug 4 22:29:24 2022 +0530
+
+    Text updated
+
+[33mcommit 035edaaa218d7a375f7e3776284db798f9cf507c[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Thu Aug 4 22:12:11 2022 +0530
+
+    Author Changed
+
+[33mcommit c5b3c8dc61cd3a7969ff13656578f87cc25cf7f3[m
+Author: Sandeep Soni <sandeepsoni@deccansoft.com>
+Date:   Thu Aug 4 21:55:31 2022 +0530
+
+    Initial Commit
